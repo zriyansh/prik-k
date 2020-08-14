@@ -1,13 +1,18 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 <p align='center'>
 <a href="https://twitter.com/prkhodiyar?s=08"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/ye_gujarati/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/prik/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p> 
+ 
+ i am priyansh
+ 
+![](https://img.shields.io/badge/OS-LinuxMintOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a?style=for-the-badge&logo=appveyor)
 
-![](https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/IDE-VSCODE-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a?style=for-the-badge&logo=appveyor)
 
 
 
