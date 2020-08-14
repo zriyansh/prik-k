@@ -32,7 +32,7 @@ Self taught Full Stack Developer.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prik-k&show_icons=true&include_all_commits=true&theme=radical" alt="Priyansh's github stats" />
 </a>
 <a href="https://github.com/prik-k/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prik-k&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prik-k&layout=default&theme=radical" />
 </a>
     
 <a href="https://github.com/prik-k/prik-k.github.io">
