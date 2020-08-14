@@ -16,7 +16,7 @@ Would love to hear from similar minded connections.
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a?style=for-the-badge&logo=appveyor)
 
 
-![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=prik-k&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=prik-k&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prik-k&repo=prik-k.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
