@@ -16,7 +16,6 @@ Would love to hear from similar minded connections.
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a?style=for-the-badge&logo=appveyor)
 
 
-### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
 
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
@@ -35,7 +34,7 @@ Hi, I'm Priyansh Khodiyar, a passionate self-taught frontEnd web developer from 
 
 - 🔭 I’m currently working on my project [repoName](https://github.com/prik-k/<repoName>)
 - 🌱 I’m currently learning Dart & Javascript
-- 👯 I’m looking to collaborate on [<repoName>](https://github.com/prik-k/<repoName>)
+- 👯 I’m looking to collaborate on [repoName](https://github.com/prik-k/<repoName>)
 - 💬 Ask me about anything [here](https://github.com/prik-k/prik-k/issues)
 
 **Languages and Tools:**  
@@ -53,10 +52,7 @@ Hi, I'm Priyansh Khodiyar, a passionate self-taught frontEnd web developer from 
 <a href="https://github.com/prik-k/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prik-k&layout=compact&theme=radical" />
 </a>
-
-<a href="https://github.com/prik-k/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prik-k&repo=github-readme-stats&theme=radical" />
-</a>    
+    
 <a href="https://github.com/prik-k/prik-k.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prik-k&repo=prik-k.github.io&theme=radical" />
 </a>
