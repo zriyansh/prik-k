@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 
 
-![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=prik-k&show_icons=true&theme=radical)
+![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=prik-k&show_icons=true&theme=gradient)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prik-k&repo=prik-k.github.io)](https://github.com/prik-k/prik-k.github.io)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prik-k&repo=prik-k.github.io)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prik-k&layout=compact)
