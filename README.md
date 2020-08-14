@@ -15,7 +15,8 @@ Would love to hear from similar minded connections.
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a?style=for-the-badge&logo=appveyor)
 
-
+<p align='center'>
+  
 ![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=prik-k&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
@@ -23,3 +24,5 @@ Would love to hear from similar minded connections.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prik-k&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=151515&icon_color=79ff97)
+
+</p>
