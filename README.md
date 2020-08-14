@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 ![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=prik-k&show_icons=true&theme=radical)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prik-k&repo=prik-k.github.io)](https://github.com/prik-k/prik-k.github.io)
