@@ -1,4 +1,4 @@
-# Hello, folks! I'm [Priyansh](https://anuraghazra.github.io) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! I'm [Priyansh](https://prik-k.github.io) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 <p align='center'>
