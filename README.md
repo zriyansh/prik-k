@@ -8,12 +8,13 @@
   
 </p> 
  
-Priyansh is an undergraduate freshmen at a University with harworking attitude (key) towards general problem solving, a team player with strong communication skills and positive attitude, can produce high creative quality products meeting tight deadlines.
-Would love to hear from similar minded connections. 
+Priyansh is a Sophomore at an Indian University. With harworking attitude (key) towards general problem solving, he is a team player with strong communication skills and positive attitude, can produce high creative quality products meeting tight deadlines.
+He loves to hear from similar minded connections. 
 
-Self taught Full Stack Developer.
+Self taught Flutter and Full Stack Developer.
  
 ![](https://img.shields.io/badge/OS-LinuxMintOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/IDE-Geany-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a?style=for-the-badge&logo=appveyor)
 
