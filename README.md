@@ -8,7 +8,7 @@
   
 </p>
 
-![](https://komarev.com/ghpvc/?username=soum-sr&color=green)
+![](https://komarev.com/ghpvc/?username=prik-k&color=green)
 
 Priyansh is a Sophomore at an Indian University. With harworking attitude (key) towards general problem solving, he is a team player with strong communication skills and positive attitude, can produce high creative quality products meeting tight deadlines.
 He loves to hear from similar minded connections. 
