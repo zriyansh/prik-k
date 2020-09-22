@@ -6,8 +6,10 @@
 <a href="https://www.instagram.com/zriyansh/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/prik/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
   
-</p> 
- 
+</p>
+
+![](https://komarev.com/ghpvc/?username=soum-sr&color=green)
+
 Priyansh is a Sophomore at an Indian University. With harworking attitude (key) towards general problem solving, he is a team player with strong communication skills and positive attitude, can produce high creative quality products meeting tight deadlines.
 He loves to hear from similar minded connections. 
 
