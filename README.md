@@ -40,6 +40,3 @@ Self taught Flutter and Full Stack Developer.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prik-k&layout=default&theme=radical" />
 </a>
     
-<a href="https://github.com/prik-k/prik-k.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prik-k&repo=prik-k.github.io&theme=radical" />
-</a>
