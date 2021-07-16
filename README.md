@@ -1,13 +1,5 @@
 # Hello, folks! I'm [Priyansh](https://prik-k.github.io) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-<p align='center'>
-<a href="https://twitter.com/priyanskhodiyar?s=08"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/zriyansh/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/prik/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-  
-</p>
-
 ![](https://komarev.com/ghpvc/?username=prik-k&color=red)
 
 Priyansh is a Sophomore at an Indian University. With harworking attitude (key) towards general problem solving, he is a team player with strong communication skills and positive attitude, can produce high creative quality products meeting tight deadlines.
