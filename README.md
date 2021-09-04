@@ -2,5 +2,5 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=prik-k&color=red) -->
 
-Priyansh is a Sophomore at an Indian University.
+He is a Junior at an Indian University.
  
