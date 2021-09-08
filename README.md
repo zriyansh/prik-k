@@ -2,5 +2,5 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=prik-k&color=red) -->
 
-He is a Junior at an Indian University.
+He was a Junior at an Indian University.
  
